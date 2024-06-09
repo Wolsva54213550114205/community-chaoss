@@ -10,10 +10,10 @@ description: Renvoie le lien google video de la vidéo pour pouvoir la télécha
 
 
 
-|         |                                     |      |
-| ------- | ----------------------------------- | ---- |
-| url     | L'url de la vidéo youtube           | None |
-| quality | La qualité de l'audio (lowest/best) | best |
+| Nom     | Description                         | Valeur par défaut |
+| ------- | ----------------------------------- | ----------------- |
+| url     | L'url de la vidéo youtube           | None              |
+| quality | La qualité de l'audio (lowest/best) | best              |
 
 ### Exemple d'utilisation dans du code python qui utilise requests :
 
