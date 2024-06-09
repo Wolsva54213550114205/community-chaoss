@@ -2,7 +2,7 @@
 description: Renvoie le lien google video de la vidéo pour pouvoir la télécharger en mp4
 ---
 
-# Youtube mp4
+# 📺 Youtube mp4
 
 
 
@@ -45,10 +45,8 @@ else:
 ### Sortie :
 
 {% code overflow="wrap" %}
-```json
-{
-    "googleVideoLink": "https://rr5---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=<LIEN COUPÉ>"
-}
+```
+https://rr5---sn-p5qlsnd6.googlevideo.com/videoplayback?expire=<LIEN COUPÉ>
 ```
 {% endcode %}
 
