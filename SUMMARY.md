@@ -10,5 +10,6 @@
     * [📺 Youtube mp4](documentation/tools/youtube-mp4.md)
     * [🎵 Youtube mp3](documentation/tools/youtube-mp3.md)
     * [🍥 Sibnet mp4](documentation/tools/sibnet-mp4.md)
+    * [🖋️ ASCII Art Text](documentation/tools/ascii-art-text.md)
   * [🗒️ Informations](documentation/informations/README.md)
     * [🕐 Heure](documentation/informations/heure.md)
